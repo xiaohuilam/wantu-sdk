@@ -1,6 +1,7 @@
 <?php
 namespace AliMedia\Core;
 
+use AliMedia\AlibabaImage;
 use AliMedia\Conf\Conf;
 use AliMedia\Utils\EncodeUtils;
 use AliMedia\Utils\UploadOption;
